@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DF</string>
+    <string-array name="Race">
+        <item>Человек</item>
+        <item>Эльф</item>
+        <item>Дварф</item>
+        <item>Драконо-рожденный</item>
+    </string-array>
+    <string-array name="Klass">
+        <item>Воин</item>
+        <item>Плут</item>
+        <item>Волшебник</item>
+        <item>Друид</item>
+        <item>Бард</item>
+    </string-array>
+    <string-array name="Language">
+        <item>Эльфийский</item>
+        <item>Дворфский</item>
+        <item>Человеческий</item>
+        <item>Оркский</item>
+        <item>Бардский</item>
+    </string-array>
+    <string-array name="prihistory">
+        <item>Человек</item>
+        <item>Эльф</item>
+        <item>Дварф</item>
+        <item>Драконо-рожденный</item>
+    </string-array>
+</resources>
